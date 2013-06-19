@@ -31,6 +31,7 @@ Example:
 -cache:dl2             ul2:512:64:8:3:R
 ```
 
+Please further refer to a complete example configuration file _RRIP-256K-8.baseline.cfg_.
 ## Compilation ##
 
 ```bash
