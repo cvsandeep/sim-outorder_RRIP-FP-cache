@@ -1,0 +1,4 @@
+language: c
+compiler:
+ - gcc
+script: make config-alpha && make clean && make sim-outorder
