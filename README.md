@@ -1,5 +1,6 @@
 SimpleScalar sim-outorder simulator with RRIP policy cache
 ===
+[![Build Status](https://travis-ci.org/yszheda/sim-outorder_RRIP-FP-cache.png?branch=master)](https://travis-ci.org/yszheda/sim-outorder_RRIP-FP-cache)
 
 We implement the 
 **Static Re-Reference Interval Prediction with Frequency Priority** (RRIP-FP) from the ISCA'2010 paper [1]
